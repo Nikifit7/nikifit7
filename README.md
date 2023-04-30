@@ -1,5 +1,5 @@
 # 💫 About Me:
-Web developer fullstack developer student, I am curious, and passionated for leraning new things .<br>I am learning HTML, CSS & JS, focusing on Front-end projects right now.<br>The fun fact is, as much as you learn as much as you want to discover even more.
+Web developer fullstack student, I am curious, and passionated for leraning new things .<br>I am learning HTML, CSS & JS, focusing on Front-end projects right now.<br>The fun fact is, as much as you learn as much as you want to discover even more.:octocat:
 
 
 ## 🌐 Socials:
