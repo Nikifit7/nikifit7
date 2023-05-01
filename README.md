@@ -1,5 +1,5 @@
 # 💫 About Me:🤠
- 🥰 I love creating something from scratch, and seeing my  code come to life, it gives me a sense of accomplishment and satisfaction, when successfully solving a difficult coding challenge it's a  source of pride and happiness for me, it offers myself a big sense of accomplishment, a creative outlet, it brings me continuous learning opportunities, problem-solving challenges increases my own power,help others is amazing, and be part of the Developer community, is more than a honor, is  part of my personality, is who I am now. :octocat:
+ 🥰 I love creating something from scratch, and seeing my  code come to life, it gives me a sense of accomplishment and satisfaction, when successfully solving a difficult coding challenge it's a  source of pride and happiness for me, it offers myself a big sense of accomplishment, a creative outlet, it gives me continuous learning opportunities, problem-solving challenges, help, to encouraging others only  increases my own power, be part of the Deve community, is more than a honor, is  part of my personality, is who I am now. :octocat:
 
 
 ## 🌐 Socials:
