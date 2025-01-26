@@ -1,5 +1,5 @@
 # 💫 About Me:🤠
- 🥰 I love creating something from scratch, and seeing my  code come to life, it gives me a sense of accomplishment and satisfaction, when successfully solving a difficult coding challenge it's a  source of pride and happiness for me, it offers myself a big sense of accomplishment, a creative outlet, it gives me continuous learning opportunities, problem-solving challenges, help, to encouraging others only  increases my own power, be part of the Deve community, is more than a honor, is  part of my personality, is who I am now. :octocat:
+ 🥰 Ich bin eine Sprachlehrerin mit 14 Jahren Erfahrung und Full-Stack-Entwicklerin, die in Deutschland lebt. Ich liebe es, Technologie und Bildung zu verbinden. Meine Stärken sind Kommunikation, Problemlösung und Teamarbeit. Ich bin kreativ, belastbar und immer bereit, neue Herausforderungen anzunehmen. :octocat:
 
 
 ## 🌐 Socials:
