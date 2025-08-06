@@ -1,5 +1,12 @@
 # 💫 About Me:🤠
- 🥰 Ich bin eine Sprachlehrerin mit 14 Jahren Erfahrung und Full-Stack-Entwicklerin, die in Deutschland lebt. Ich liebe es, Technologie und Bildung zu verbinden. Meine Stärken sind Kommunikation, Problemlösung und Teamarbeit. Ich bin kreativ, belastbar und immer bereit, neue Herausforderungen anzunehmen. :octocat:
+  Ich liebe es, digitale Lösungen zu gestalten, die Menschen wirklich helfen – sei es im Bereich UX/UI oder durch zugängliche, benutzerfreundliche Front-End-Projekte.
+Meine Stärken:
+✔ Kommunikationsfähigkeit
+✔ Kreativität & Problemlösung
+✔ Teamarbeit & hohe Lernbereitschaft
+✔ Resilienz & Eigeninitiative
+
+Aktuell arbeite ich an Projekten mit HTML, CSS, JavaScript und Figma, mit Fokus auf kontinuierlichem Lernen und beruflichem Wachstum in der Tech-Branche. :octocat:
 
 
 ## 🌐 Socials:
