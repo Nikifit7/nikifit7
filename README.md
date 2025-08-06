@@ -26,8 +26,7 @@ Aktuell arbeite ich an Projekten mit HTML, CSS, JavaScript und Figma, mit Fokus 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Nikifit7&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Nikifit7&icon=0&color=0)](https://visitcount.itsvg.in)
