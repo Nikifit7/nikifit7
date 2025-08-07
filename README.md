@@ -1,4 +1,4 @@
-# 💫 Mein name ist Monique🤠
+# 💫 Ich bin Monique🤠
   Ich liebe es, digitale Lösungen zu gestalten, die Menschen wirklich helfen – sei es im Bereich UX/UI oder durch zugängliche, benutzerfreundliche Front-End-Projekte.
 Meine Stärken:
 ✔ Kommunikationsfähigkeit
