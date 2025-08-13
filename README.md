@@ -25,7 +25,8 @@ Aktuell arbeite ich an Projekten mit HTML, CSS, JavaScript und Figma, mit Fokus 
 ![React](https://img.shields.io/badge/React-%2300FF00.svg?style=for-the-badge&logo=react&logoColor=000000)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=000000)
 ![Figma](https://img.shields.io/badge/Figma-%23FF1493.svg?style=for-the-badge&logo=figma&logoColor=ffffff)
-[![Automação Low-Code](URL_DO_ICONE)](LINK_DO_SEU_PROJETO)
+![Low-Code](https://img.icons8.com/ios/452/low-code.png)
+
 
 
 ---
