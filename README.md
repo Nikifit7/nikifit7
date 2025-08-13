@@ -10,7 +10,7 @@ Aktuell arbeite ich an Projekten mit HTML, CSS, JavaScript und Figma, mit Fokus 
 
 
 ## 🌐 Socials
-
+[![CodePen](https://img.shields.io/badge/CodePen-000000?logo=codepen&logoColor=white)](https://codepen.io/nikifit7)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Nikiflow)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://facebook.com/seuPerfil)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/seuPerfil)
