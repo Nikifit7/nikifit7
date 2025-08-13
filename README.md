@@ -36,6 +36,10 @@ Ich bin offen für Zusammenarbeit, spannende Tech-Projekte und innovative Ideen.
 ![React](https://img.shields.io/badge/React-%2300FF00.svg?style=for-the-badge&logo=react&logoColor=000000)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=000000)
 ![Figma](https://img.shields.io/badge/Figma-%23FF1493.svg?style=for-the-badge&logo=figma&logoColor=ffffff)
+![UI/UX Design](https://img.shields.io/badge/UI%2FUX-%23FF00FF.svg?style=for-the-badge&logo=figma&logoColor=ffffff)
+![Wix](https://img.shields.io/badge/Wix-%2300FFFF.svg?style=for-the-badge&logo=wix&logoColor=000000)
+![WordPress](https://img.shields.io/badge/WordPress-%2300FF00.svg?style=for-the-badge&logo=wordpress&logoColor=000000)
+
 
 
 
