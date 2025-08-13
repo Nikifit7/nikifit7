@@ -10,11 +10,12 @@ Aktuell arbeite ich an Projekten mit HTML, CSS, JavaScript und Figma, mit Fokus 
 
 
 ## 🌐 Socials
-[![CodePen](https://img.shields.io/badge/CodePen-000000?logo=codepen&logoColor=white)](https://codepen.io/nikifit7)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Nikiflow)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://facebook.com/seuPerfil)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/seuPerfil)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/MoniqueNavarro)
+[![CodePen](https://img.shields.io/badge/CodePen-%2300FFFF?style=for-the-badge&logo=codepen&logoColor=000000)](https://codepen.io/nikifit7)
+[![Discord](https://img.shields.io/badge/Discord-%23FF00FF?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Nikiflow)
+[![Facebook](https://img.shields.io/badge/Facebook-%2300FF00?style=for-the-badge&logo=facebook&logoColor=000000)](https://facebook.com/seuPerfil)
+[![Instagram](https://img.shields.io/badge/Instagram-%23FF1493?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seuPerfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23FFFF00?style=for-the-badge&logo=linkedin&logoColor=000000)](https://linkedin.com/in/MoniqueNavarro)
+
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
