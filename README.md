@@ -1,12 +1,23 @@
-# 💫 Ich bin Monique🤠
-  Ich liebe es, digitale Lösungen zu gestalten, die Menschen wirklich helfen – sei es im Bereich UX/UI oder durch zugängliche, benutzerfreundliche Front-End-Projekte.
-Meine Stärken:
-✔ Kommunikationsfähigkeit
-✔ Kreativität & Problemlösung
-✔ Teamarbeit & hohe Lernbereitschaft
-✔ Resilienz & Eigeninitiative
+# 💫 Hallo, ich bin Monique 🤠
 
-Aktuell arbeite ich an Projekten mit HTML, CSS, JavaScript und Figma, mit Fokus auf kontinuierlichem Lernen und beruflichem Wachstum in der Tech-Branche. :octocat:
+Ich gestalte digitale Lösungen, die wirklich einen Unterschied machen – von intuitiven UX/UI-Designs bis hin zu benutzerfreundlichen Front-End-Projekten.  
+Meine Mission: Technologie zugänglich, kreativ und effizient für alle machen.
+
+## 🚀 Meine Stärken
+- **Kommunikation:** Klar, präzise und zielgerichtet in jedem Projekt.  
+- **Kreativität & Problemlösung:** Innovative Ideen, die echte Probleme lösen.  
+- **Teamarbeit & Lernbereitschaft:** Kollaborativ, offen für Feedback und stetiges Wachstum.  
+- **Resilienz & Eigeninitiative:** Herausforderungen annehmen und selbstständig neue Lösungen entwickeln.  
+
+## 💻 Aktuelle Technologien & Tools
+HTML, CSS, JavaScript, React, Figma – mit Fokus auf **responsive, performante und benutzerfreundliche Webanwendungen**.  
+
+## 🌱 Mein Ansatz
+Ich liebe es, kontinuierlich zu lernen, neue Technologien zu entdecken und Projekte zu entwickeln, die echte Mehrwerte schaffen.  
+
+## 🔗 Lass uns verbinden
+Ich bin offen für Zusammenarbeit, spannende Tech-Projekte und innovative Ideen. :octocat:
+
 
 
 ## 🌐 Socials
@@ -25,7 +36,7 @@ Aktuell arbeite ich an Projekten mit HTML, CSS, JavaScript und Figma, mit Fokus 
 ![React](https://img.shields.io/badge/React-%2300FF00.svg?style=for-the-badge&logo=react&logoColor=000000)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=000000)
 ![Figma](https://img.shields.io/badge/Figma-%23FF1493.svg?style=for-the-badge&logo=figma&logoColor=ffffff)
-![Low-Code](https://img.icons8.com/ios/452/low-code.png)
+
 
 
 
