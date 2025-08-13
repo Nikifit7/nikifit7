@@ -17,18 +17,6 @@ Ich liebe es, kontinuierlich zu lernen, neue Technologien zu entdecken und Proje
 
 ## 🔗 Lass uns verbinden
 Ich bin offen für Zusammenarbeit, spannende Tech-Projekte und innovative Ideen. :octocat:
-## 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/MoniqueNavarro)
-[![Instagram](https://img.shields.io/badge/Instagram-%23FF1493?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seuPerfil)
-[![Facebook](https://img.shields.io/badge/Facebook-%2300FF00?style=for-the-badge&logo=facebook&logoColor=000000)](https://facebook.com/seuPerfil)
-[![Discord](https://img.shields.io/badge/Discord-%23FF00FF?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Nikiflow)
-[![CodePen](https://img.shields.io/badge/CodePen-%2300FFFF?style=for-the-badge&logo=codepen&logoColor=000000)](https://codepen.io/nikifit7)
-
-
-
-
-
 
 ## 🌐 Socials
 [![CodePen](https://img.shields.io/badge/CodePen-%2300FFFF?style=for-the-badge&logo=codepen&logoColor=000000)](https://codepen.io/nikifit7)
