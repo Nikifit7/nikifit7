@@ -20,18 +20,11 @@
 
 I am a hybrid engineer bridging the gap between **Physical Resources** and **Digital Intelligence**. With **7+ years** in **Landwirtschaft** (Farm Management) and factory-floor operations, I build systems that protect our future supply chains.
 
-<table>
+<table align="center">
   <tr>
-    <td>🎯 <strong>Frontend Core</strong></td>
-    <td>Crafting high-performance, animated UIs with <strong>GSAP</strong> & <strong>React</strong></td>
-  </tr>
-  <tr>
-    <td>📊 <strong>Data Engine</strong></td>
-    <td>Architecting ESG models using <strong>Python</strong>, <strong>Pandas</strong>, and <strong>SQL</strong></td>
-  </tr>
-  <tr>
-    <td>🔗 <strong>Systemic View</strong></td>
-    <td>Mapping global risks through <strong>Supply Chain Transparency</strong> & <strong>Traceability</strong></td>
+    <td align="center">🎯 <strong>Frontend Core</strong><br>Crafting high-performance, animated UIs with <strong>GSAP</strong> & <strong>React</strong></td>
+    <td align="center">📊 <strong>Data Engine</strong><br>Architecting ESG models using <strong>Python</strong>, <strong>Pandas</strong>, and <strong>SQL</strong></td>
+    <td align="center">🔗 <strong>Systemic View</strong><br>Mapping global risks through <strong>Supply Chain Transparency</strong> & <strong>Traceability</strong></td>
   </tr>
 </table>
 
@@ -118,7 +111,7 @@ I engineered a high-precision monitoring system for the **Global Cocoa Crisis (2
 I speak the language of the field, the factory, and the source code.
 
 <p align="center">
-  <a href="https:www.linkedin.com/in/monique-navarro-874760223">
+  <a href="https://www.linkedin.com/in/monique-navarro-eng/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a66c2" />
   </a>
   <a href="https://github.com/Nikifit7">
@@ -134,3 +127,10 @@ I speak the language of the field, the factory, and the source code.
 
 ---
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=30&section=footer" width="100%" />
+</p>
+
+<p align="center">
+  <i>💚 "The land does not lie. Data confirms it. Code protects it."</i>
+</p>
