@@ -1,58 +1,89 @@
 # 💫 Hallo, ich bin Monique | Software Engineer & ESG Data Architect 🤠 🧬
 
-> **"Die Erde lügt nicht, und Daten bestätigen es."** (The land does not lie, and data confirms it). I architect resilient systems where software engineering meets **ESG Intelligence** to secure global resources.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=200&section=header&text=Engineering%20Sustainability&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+</p>
+
+> **"Die Erde lügt nicht, und Daten bestätigen es."** 🌍
+> I architect resilient systems where software engineering meets **ESG Intelligence** to secure global resources.
 
 ---
 
 ## 🚀 My Mission: Data-Driven Resilienz
-Transitioning from the factory floor and seven years of **Landwirtschaft** (Farm Management) into systems engineering. I don’t just build interfaces; I develop **Entscheidungssysteme** (Decision Systems). My goal is to translate physical complexity—climate, soil, and energy—into software architectures that optimize the future.
+Transitioning from the factory floor and seven years of **Landwirtschaft** (Farm Management) into systems engineering. I don’t just build interfaces; I develop **Entscheidungssysteme** (Decision Systems). 
 
-- **Software Engineering:** Building scalable solutions with Node.js and React.
-- **Data Architecture (ESG):** Mining critical indicators like **Scope 1-2-3**, EUDR, and **Wassermanagement**.
-- **Geospatial Intelligence:** Integrating **GIS** and Data Science for total **Lieferketten-Transparenz** (Supply Chain Transparency).
+- **Software Engineering:** Building scalable solutions with **Node.js** & **React**.
+- **Data Architecture (ESG):** Mining indicators like **Scope 1-2-3**, **EUDR**, and **Wassermanagement**.
+- **Geospatial Intelligence:** Integrating **GIS** for **Lieferketten-Transparenz**.
 
 ---
 
-## 💻 My Tech Stack
+## 💻 Tech Stack & Digital Tools
 
-### 🏗️ Software Engineering & UI Architecture
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![GSAP](https://img.shields.io/badge/GSAP-Animation-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
-
-### 📊 Data Science & ESG Intelligence (The "Green" Engine)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Databases-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![GIS](https://img.shields.io/badge/GIS-Geospatial-0071C5?style=for-the-badge&logo=googleearth&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=for-the-badge)
-
-### 🎨 Strategic Design & Compliance
-![Figma](https://img.shields.io/badge/UI/UX_Engineering-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![ESG Compliance](https://img.shields.io/badge/ESG_Audit-Sustainability-008080?style=for-the-badge)
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://skillicons.dev/icons?i=nodejs,react,js,html,css,gsap" /><br>
+      <b>Software Engineering</b>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://skillicons.dev/icons?i=py,pandas,mysql,mongodb,postman" /><br>
+      <b>Data & ESG Audit</b>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://skillicons.dev/icons?i=figma,ps,bootstrap,tailwind,github" /><br>
+      <b>UI/UX Architecture</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🔬 Featured Engineering: Cocoa "Survival Metric" Audit
 I developed a risk-monitoring prototype for the cocoa market, integrating real-world stressors:
-1. **Back-end:** Data mining via Python (`yfinance`) to track **Preisvolatilität**.
-2. **Analysis:** Processing supply gaps and yield declines with `Pandas`.
-3. **Front-end:** An executive dashboard built with Pure CSS (Grid/Flexbox) using **Data-Driven Variables**.
-4. **Interconnectivity:** Linking the European energy crisis (**Energiekrise**) to West African crop failure.
+- **Python Backend:** `yfinance` to track Preisvolatilität.
+- **Data Logic:** Supply gaps & yield declines via `Pandas`.
+- **UI Architecture:** Executive dashboard built with **GSAP Animations** & Pure CSS.
+- **Interconnectivity:** Linking the European energy crisis (**Energiekrise**) to West African crop failure.
+
+---
+
+## 📊 🔥 Real-Time Engineering Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nikifit7&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Monique Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikifit7&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</p>
+
+---
+
+## 🏆 Innovation Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nikifit7&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+</p>
 
 ---
 
 ## 🌱 Current Focus: Nachhaltigkeit & Tech
-Specializing in **Rückverfolgbarkeit** (Traceability) and **Regenerative Datentechnik**. I believe code is the most powerful tool to balance industrial needs with **Ressourcenschonung** (Resource Conservation).
+Specializing in **Rückverfolgbarkeit** (Traceability) and **Regenerative Datentechnik**. I believe code is the most powerful tool to balance industrial needs with **Ressourcenschonung**.
 
 ## 🔗 Lass uns verbinden
-I speak the language of the field, the factory, and the code. If you are looking for a professional who bridges **Effizienz** and **Nachhaltigkeit**, let’s connect.
+I speak the language of the field, the factory, and the code.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-yellow?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/MoniqueNavarro)
-[![CodePen](https://img.shields.io/badge/CodePen-Showcase-00FFFF?style=for-the-badge&logo=codepen&logoColor=black)](https://codepen.io/nikifit7)
+<p align="center">
+  <a href="https://linkedin.com/in/MoniqueNavarro">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://codepen.io/nikifit7">
+    <img src="https://img.shields.io/badge/CodePen-Showcase-000000?style=for-the-badge&logo=codepen&logoColor=white" />
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Nikifit7&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Open_for_Collaboration-00FF00?style=flat-square" />
+  <img src="https://visitcount.itsvg.in/api?id=Nikifit7&icon=5&color=0" />
+</p>
