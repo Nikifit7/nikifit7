@@ -118,7 +118,7 @@ I engineered a high-precision monitoring system for the **Global Cocoa Crisis (2
 I speak the language of the field, the factory, and the source code.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/monique-navarro-87401b81/">
+  <a href="https:https://www.linkedin.com/in/monique-navarro-874760223/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a66c2" />
   </a>
   <a href="https://github.com/Nikifit7">
@@ -127,7 +127,7 @@ I speak the language of the field, the factory, and the source code.
   <a href="https://codepen.io/nikifit7">
     <img src="https://img.shields.io/badge/CodePen-Showcase-000000?style=for-the-badge&logo=codepen&logoColor=white" />
   </a>
-  <a href="mailto:monique.navarro@example.com">
+  <a href="mailto:nikierfolg@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
