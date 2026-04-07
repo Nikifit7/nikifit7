@@ -1,77 +1,69 @@
 # 💫 Hallo, ich bin Monique | Software Engineer & ESG Data Architect 🤠 🧬
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=200&section=header&text=Engineering%20Sustainability&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
-</p>
-
-> **"Die Erde lügt nicht, und Daten bestätigen es."** 🌍
-> I architect resilient systems where software engineering meets **ESG Intelligence** to secure global resources.
-
----
-
-## 🚀 My Mission: Data-Driven Resilienz
-Transitioning from the factory floor and seven years of **Landwirtschaft** (Farm Management) into systems engineering. I don’t just build interfaces; I develop **Entscheidungssysteme** (Decision Systems). 
-
-- **Software Engineering:** Building scalable solutions with **Node.js** & **React**.
-- **Data Architecture (ESG):** Mining indicators like **Scope 1-2-3**, **EUDR**, and **Wassermanagement**.
-- **Geospatial Intelligence:** Integrating **GIS** for **Lieferketten-Transparenz**.
-
----
-
-## 💻 Tech Stack & Digital Tools
-
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://skillicons.dev/icons?i=nodejs,react,js,html,css,gsap" /><br>
-      <b>Software Engineering</b>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://skillicons.dev/icons?i=py,pandas,mysql,mongodb,postman" /><br>
-      <b>Data & ESG Audit</b>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://skillicons.dev/icons?i=figma,ps,bootstrap,tailwind,github" /><br>
-      <b>UI/UX Architecture</b>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🔬 Featured Engineering: Cocoa "Survival Metric" Audit
-I developed a risk-monitoring prototype for the cocoa market, integrating real-world stressors:
-- **Python Backend:** `yfinance` to track Preisvolatilität.
-- **Data Logic:** Supply gaps & yield declines via `Pandas`.
-- **UI Architecture:** Executive dashboard built with **GSAP Animations** & Pure CSS.
-- **Interconnectivity:** Linking the European energy crisis (**Energiekrise**) to West African crop failure.
-
----
-
-## 📊 🔥 Real-Time Engineering Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nikifit7&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Monique Stats" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=Engineering%20Resilience&fontSize=60&animation=fadeIn&fontAlignY=40&desc=The%20Land%20Does%20Not%20Lie%20•%20Data%20Confirms%20It&descAlignY=60&descSize=20" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikifit7&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Software+Engineer+@+Future;ESG+Data+Architect;GIS+%26+Geospatial+Expert;Translating+Soil+into+Code" alt="Typing SVG" />
+</p>
+
+---
+
+## 🚀 Mission: Data-Driven Resilienz
+I am a hybrid engineer bridging the gap between **Physical Resources** and **Digital Intelligence**. With 7 years in **Landwirtschaft** (Farm Management) and a factory-floor background, I build the systems that protect our future supply chains.
+
+- **Frontend Core:** Crafting high-end, animated UIs with **GSAP** & **React**.
+- **Data Engine:** Architecting ESG models using **Python**, **Pandas**, and **SQL**.
+- **Systemic View:** Mapping global risks through **GIS** and **Lieferketten-Transparenz**.
+
+---
+
+## 💻 Technical Ecosystem
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,nodejs,react,js,html,css,gsap,mysql,mongodb,figma,postman,github,svg,git,linux&theme=dark" />
+</p>
+
+---
+
+## 🔬 Featured Engineering: The "Survival Metric" Audit
+I engineered a high-precision monitoring system for the **Global Cocoa Crisis** (2025-2026). 
+* **The Problem:** A 10% supply gap hitting the European breakfast table.
+* **The Tech:** Python-fed data streams visualized through a **GSAP-powered** interactive dashboard.
+* **The Insight:** Connecting **Energiekrise** and water scarcity (~17k L/kg) to real-time market volatility.
+
+---
+
+## 📊 🔥 Real-Time Engineering Pulse:
+
+<p align="center">
+  <a href="https://github.com/Nikifit7">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nikifit7&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&custom_title=System_Core_Stats" />
+  </a>
+  <a href="https://github.com/Nikifit7">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikifit7&theme=tokyonight&layout=compact&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikifit7&theme=tokyonight&hide_border=true" width="100%" />
 </p>
 
 ---
 
 ## 🏆 Innovation Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nikifit7&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Nikifit7&theme=radical&no-frame=true&no-bg=true&column=4" />
 </p>
 
 ---
 
-## 🌱 Current Focus: Nachhaltigkeit & Tech
-Specializing in **Rückverfolgbarkeit** (Traceability) and **Regenerative Datentechnik**. I believe code is the most powerful tool to balance industrial needs with **Ressourcenschonung**.
+## 🌱 Current Specialization: Nachhaltigkeit & Tech
+Focused on **Rückverfolgbarkeit** (Traceability) and building **Regenerative Data Pipelines**. My code is designed for **Ressourcenschonung** (Resource Conservation).
 
-## 🔗 Lass uns verbinden
-I speak the language of the field, the factory, and the code.
+## 🔗 Let's Build the Future
+I speak the language of the field, the factory, and the source code.
 
 <p align="center">
   <a href="https://linkedin.com/in/MoniqueNavarro">
@@ -84,6 +76,7 @@ I speak the language of the field, the factory, and the code.
 
 ---
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Open_for_Collaboration-00FF00?style=flat-square" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FFFF&height=30&section=footer" width="100%" />
+  <br>
   <img src="https://visitcount.itsvg.in/api?id=Nikifit7&icon=5&color=0" />
 </p>
