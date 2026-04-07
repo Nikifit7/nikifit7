@@ -134,19 +134,3 @@ I speak the language of the field, the factory, and the source code.
 
 ---
 
-## 📈 Weekly Engineering Rhythm
-
-```mermaid
-gantt
-    title Monique's Engineering Week
-    dateFormat  %A
-    section ESG Data
-    Data Pipeline Audit    :active, mon, 4h
-    Python Modeling        :tue, 6h
-    SQL Optimization       :wed, 3h
-    section Frontend
-    GSAP Animation         :mon, 3h
-    React Components       :thu, 5h
-    section Sustainability
-    Carbon Metrics Review  :fri, 4h
-    EU Taxonomy Alignment  :fri, 2h
