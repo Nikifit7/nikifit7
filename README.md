@@ -118,7 +118,7 @@ I engineered a high-precision monitoring system for the **Global Cocoa Crisis (2
 I speak the language of the field, the factory, and the source code.
 
 <p align="center">
-  <a href="https:https://www.linkedin.com/in/monique-navarro-874760223/">
+  <a href="https:https:https://www.linkedin.com/in/monique-navarro-874760223/>
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a66c2" />
   </a>
   <a href="https://github.com/Nikifit7">
