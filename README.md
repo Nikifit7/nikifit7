@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Monique%20Navarro&fontSize=50&fontColor=ffffff" />
 
-### 🚀 Industrial Transformation Engineer | OT-IT Integration learning
+### 🚀 Industrial JR Transformation Engineer | OT-IT Integration learning
 *Bridging the gap between Shopfloor efficiency and Modern Data Visualization.*
 
 <img src="https://img.shields.io/badge/Industry_4.0-3B82F6?style=for-the-badge&logo=siemens&logoColor=white" />
