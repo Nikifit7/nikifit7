@@ -1,136 +1,120 @@
-# 💫 Hallo, I'm Monique | Software Engineer & ESG Data Architect 🤠🧬
+# 🏭 Monique | Industrial Transition Engineer | Industry 4.0 | ESG Data Systems
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=280&section=header&text=Engineering%20Resilience&fontSize=60&animation=fadeIn&fontAlignY=40&desc=The%20Land%20Does%20Not%20Lie%20•%20Data%20Confirms%20It&descAlignY=65&descSize=18" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFD1&center=true&vCenter=true&width=550&lines=Software+Engineer+%40+Future;ESG+Data+Architect;Supply+Chain+Traceability;Translating+Soil+into+Code" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nikifit7&style=flat-square&color=00FFD1" alt="Profile views" />
-  <img src="https://img.shields.io/badge/ESG-Ready-00FFD1?style=flat-square&logo=sustainability&logoColor=white" />
-  <img src="https://img.shields.io/badge/EU_Taxonomy-Aligned-003399?style=flat-square" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,100:2c5364&height=220&section=header&text=Industry%204.0%20Transition&fontSize=42&fontColor=ffffff" />
 </p>
 
 ---
 
-## 🚀 Mission: Data-Driven Resilience
+## 👤 About Me
 
-I am a hybrid engineer bridging the gap between **Physical Resources** and **Digital Intelligence**. With **7+ years** in **Landwirtschaft** (Farm Management) and factory-floor operations, I build systems that protect our future supply chains.
+Industrial professional transitioning into **Industry 4.0 and industrial data systems**.
 
-<table align="center">
-  <tr>
-    <td align="center">🎯 <strong>Frontend Core</strong><br>Crafting high-performance, animated UIs with <strong>GSAP</strong> & <strong>React</strong></td>
-    <td align="center">📊 <strong>Data Engine</strong><br>Architecting ESG models using <strong>Python</strong>, <strong>Pandas</strong>, and <strong>SQL</strong></td>
-    <td align="center">🔗 <strong>Systemic View</strong><br>Mapping global risks through <strong>Supply Chain Transparency</strong> & <strong>Traceability</strong></td>
-  </tr>
-</table>
+Background combines:
+- Manufacturing / operational environments (chão de fábrica, TPM experience)
+- Environmental management (ESG / ISO 14001)
+- Early-stage software engineering (Python, SQL)
 
----
-
-## 💻 Technical Ecosystem
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,nodejs,react,js,html,css,gsap,mysql,mongodb,postgres,figma,postman,github,git,linux&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🐍%20Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/📊%20Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/🎨%20GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
-  <img src="https://img.shields.io/badge/⚛️%20React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/🛢️%20SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/🐳%20Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
+Currently focused on **learning industrial digitalization and OT–IT integration for ESG and energy efficiency use cases**.
 
 ---
 
-## 🔬 Featured Engineering: The "Survival Metric" Audit
+## 🎯 Current Focus
 
-I engineered a high-precision monitoring system for the **Global Cocoa Crisis (2025-2026)**.
-
-| Aspect | Details |
-|--------|---------|
-| 🧩 **The Problem** | A 10% supply gap hitting the European breakfast table |
-| ⚙️ **The Tech** | Python-fed data streams visualized through a **GSAP-powered** interactive dashboard |
-| 💡 **The Insight** | Connecting **Energiekrise** (energy crisis) and water scarcity (~17k L/kg) to real-time market volatility |
-
-> ✨ *This project was featured in internal ESG briefings and influenced procurement strategies for Q1 2026.*
+- Industrial IoT fundamentals (machine data → systems)
+- Modbus TCP (basic practical use)
+- OPC UA (learning for Industry 4.0 integration)
+- Python for industrial data processing (pandas, automation)
+- SQL for structured industrial datasets
+- ESG / energy efficiency data modeling (CO₂, consumption, reporting)
 
 ---
 
-## 📊 Real-Time Engineering Pulse
+## ⚙️ Technical Skills
 
-<p align="center">
-  <a href="https://github.com/Nikifit7">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nikifit7&show_icons=true&theme=tokyonight&count_private=true&hide_border=false&custom_title=System_Core_Stats&bg_color=0d1117&title_color=00FFD1&icon_color=00FFD1&border_color=00FFD1" />
-  </a>
-  <a href="https://github.com/Nikifit7">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikifit7&theme=tokyonight&layout=compact&hide_border=false&bg_color=0d1117&title_color=00FFD1&border_color=00FFD1" />
-  </a>
-</p>
+### 💻 Data & Software
+- Python (pandas, automation, data analysis)
+- SQL (data querying and structuring)
+- Power BI (dashboard development – basic to intermediate)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikifit7&theme=tokyonight&hide_border=false&background=0d1117&stroke=00FFD1&ring=00FFD1&fire=00FFD1&currStreakLabel=00FFD1" width="100%" />
-</p>
+### 🏭 Industrial Communication (OT)
+- Modbus TCP / RTU (basic experience)
+- OPC UA (currently learning)
+- Understanding of industrial data flow (sensor → PLC → system)
 
----
+### 🔧 Industrial Background
+- TPM (Total Productive Maintenance – practical experience)
+- ISO 9001 / ISO 14001 environments
+- Operational and manufacturing workflows
 
-## 🏆 Innovation Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nikifit7&theme=radical&no-frame=false&no-bg=true&column=4&margin-w=15&margin-h=15" />
-</p>
-
----
-
-## 🌱 Current Specialization: ESG & Data Engineering
-
-| Focus Area | Stack & Tools |
-|------------|---------------|
-| **Rückverfolgbarkeit** (Traceability) | Blockchain-ready data pipelines, audit trails |
-| **Regenerative Data Pipelines** | Python, Pandas, Airflow, SQL |
-| **Ressourcenschonung** (Resource Conservation) | Efficiency metrics, circular economy KPIs |
-| **ESG Reporting** | GRI 305, SASB, TCFD, EU Taxonomy, CSRD |
+### 🌱 ESG & Sustainability
+- ESG fundamentals (CSRD awareness)
+- Energy efficiency tracking concepts
+- CO₂ and resource consumption modeling (prototype level)
 
 ---
 
-## 🎯 2026 Goals
+## 📊 Projects (Learning & Prototypes)
 
-- [ ] Launch open-source ESG data validation toolkit
-- [ ] Contribute to GSAP community with sustainability-focused animations
-- [ ] Build a real-time supply chain carbon tracker
-- [ ] Speak at a European ESG tech conference
+- Industrial energy simulation dashboard (EUR / kWh / CO₂ estimation)
+- Python-based process tracking automation (structured data workflows)
+- Concept model for real-time industrial energy monitoring (IoT architecture)
+- ESG data structuring for manufacturing efficiency analysis
+
+> Note: Projects are currently in development and used for learning industrial systems and data integration.
 
 ---
 
-## 🔗 Let's Build the Future
+## 🎯 Engineering Objective
 
-I speak the language of the field, the factory, and the source code.
+My goal is to work in **Industry 4.0 environments**, focusing on:
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/monique-navarro-eng/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a66c2" />
-  </a>
-  <a href="https://github.com/Nikifit7">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e" />
-  </a>
-  <a href="https://codepen.io/nikifit7">
-    <img src="https://img.shields.io/badge/CodePen-Showcase-000000?style=for-the-badge&logo=codepen&logoColor=white" />
-  </a>
-  <a href="mailto:nikierfolg@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+- Connecting industrial machines to data systems
+- Improving energy efficiency and reducing resource waste
+- Supporting ESG reporting with real operational data
+- Bridging OT (shop-floor) and IT (data systems)
+
+---
+
+## 🧭 Career Direction
+
+Seeking opportunities in:
+
+- Industrial Digitalization / Industry 4.0 (entry level)
+- Manufacturing Data Analysis
+- ESG / Sustainability Data Roles in industry
+- OT–IT integration environments
+
+---
+
+## 🌍 Languages
+
+- Portuguese (native)
+- German (B1 – actively improving)
+- English (technical working level)
+
+Currently based in Germany and integrating into the industrial environment.
+
+---
+
+## 🧠 Working Approach
+
+- Practical, hands-on learning from industrial systems
+- Focus on measurable efficiency improvements
+- Continuous development in industrial protocols and data systems
+- Strong interest in energy optimization and ESG integration
+
+---
+
+## 🔗 Contact
+
+- LinkedIn: [https://www.linkedin.com/in/monique-navarro-eng/]
+- code Pen: [https://codepen.io/nikifit7]
+- GitHub: [https://www.linkedin.com/in/monique-navarro-eng/]
+  
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=30&section=footer" width="100%" />
-</p>
-
-<p align="center">
-  <i>💚 "The land does not lie. Data confirms it. Code protects it."</i>
+  <i>Focus: industrial efficiency, energy optimization, and data-driven manufacturing systems.</i>
 </p>
