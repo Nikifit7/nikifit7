@@ -1,82 +1,89 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqbmV4ZzY0eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/l41lTjJp8yYyG2bkc/giphy.gif" alt="Rotating Gears" width="150" />
-  
-  <h1>Monique Navarro</h1>
-  <p><b>Industrial Transformation Engineer | Data Enthusiast | Frontend Explorer</b></p>
-  <p><i>Building the bridge between Shopfloor Efficiency and Modern Digital Experiences.</i></p>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,100:2c5364&height=220&section=header&text=Monique%20Navarro&fontSize=42&fontColor=ffffff" />
+</p>
+
+<h2 align="center">Industrial Transition Engineer | Industry 4.0 & ESG Data Systems</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Industrial_Digitalization-blue?style=for-the-badge&logo=siemens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Expertise-OT_to_IT_Integration-orange?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESG-Data_Driven_Sustainability-success?style=for-the-badge&logo=envato&logoColor=white" />
+</p>
 
 ---
 
-## 🚀 Über mich
-Ich kombiniere industrielle Präzision mit modernem Software-Engineering. Meine Mission ist es, komplexe industrielle Prozesse durch Datenanalyse und intuitives Frontend-Design zu optimieren.
+## 👤 About Me
 
-Mit einem starken Hintergrund in der **EdTech-Branche** bringe ich die Fähigkeit mit, komplexe technische Konzepte verständlich zu machen und benutzerzentrierte Lösungen zu entwickeln – sei es für Produktions-Dashboards oder interaktive industrielle Schnittstellen.
+I am an industrial professional in the midst of a strategic transition into **Industry 4.0 and advanced data systems**. My journey combines the rigorous, hands-on reality of the factory floor with the analytical power of modern software engineering.
 
----
-
-## 🛠️ Mein Tech-Arsenal
-
-### 💻 Frontend & Interaktion (Modern Web)
-Ich nutze moderne Web-Technologien, um industrielle Daten visuell erlebbar zu machen:
-* **HTML5 / CSS3:** Semantisches und responsives Layout.
-* **JavaScript:** Dynamische Applikationslogik.
-* **GSAP (GreenSock):** High-End Animationen für interaktive Datenvisualisierungen.
-
-### 🏭 Industrial & Data Engineering (Python Ecosystem)
-Hier schlägt das Herz meiner industriellen Transformation:
-* **Python:** Automatisierung, Data Wrangling.
-* **Pandas:** Datenmanipulation & industrielle Analyse.
-* **SQL:** Strukturierung & Abfrage von Produktionsdaten.
-* **Industrial Protocols:** Modbus TCP/RTU, OPC UA (Integration).
+* **Manufacturing Roots:** Extensive experience in operational environments, **TPM (Total Productive Maintenance)**, and ISO quality standards.
+* **Sustainability Focus:** Dedicated to ESG (CSRD) and energy efficiency.
+* **The Tech Bridge:** Learning to connect the physical world (OT) to the digital brain (IT).
 
 ---
 
-## 📦 Verwendete Bibliotheken & Werkzeuge
+## 🛠️ Technical Skills
 
-<div align="center">
-  
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
-  
-  <br>
-  
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-</div>
+| Domain | Proficiency / Stack |
+| :--- | :--- |
+| **Data & Software** | Python (Pandas), SQL, Power BI, Automation |
+| **Industrial Comm (OT)** | Modbus TCP/RTU, OPC UA, Sensor-to-PLC Flow |
+| **Industrial Ops** | TPM, ISO 9001, ISO 14001, Workflow Mapping |
+| **ESG & Energy** | Energy Efficiency Tracking, CO₂ Modeling, Reporting |
 
 ---
 
-## 🎓 EdTech Experience
-Durch meine Erfahrung im EdTech-Bereich habe ich gelernt, wie man:
-* **Komplexität reduziert:** Ich entwickle Dashboards, die Anwender wirklich verstehen.
-* **Didaktische Software-Strukturen aufbaut:** Code, der nicht nur funktioniert, sondern auch wartbar ist.
-* **User Experience priorisiert:** Industrielle Software muss nicht kompliziert aussehen.
+## 🎯 Current Focus
+
+My roadmap is designed to build a robust **IIoT architecture** foundation:
+- **Industrial IoT:** Mastering the flow from machine data to centralized systems.
+- **Protocols:** Deepening knowledge in **OPC UA** and **Modbus TCP**.
+- **Data Engineering:** Using Python for structured industrial dataset transformation.
+- **Sustainability:** Modeling real-world energy consumption (EUR/kWh/CO₂).
 
 ---
 
-## 📈 Aktuelle Projekte
-* **Industrial Energy Dashboard:** Nutzung von Python & GSAP zur Visualisierung von Energieverbräuchen in Echtzeit.
-* **Automatisierte Reporting-Pipeline:** SQL-basierte Datenaufbereitung für ESG-Compliance.
-* **Prozess-Visualisierung:** Prototyping mit GSAP zur Darstellung von Maschinen-Zyklen.
+## 🚀 Projects (Prototypes & Learning)
+
+> *Building the future of manufacturing, one prototype at a time.*
+
+* **Industrial Energy Dashboard:** A simulation tool for estimating energy costs and CO₂ emissions.
+* **Process Automation:** Python-based scripts to structure and clean raw production logs.
+* **IoT Architecture Concept:** Designing data flows for real-time industrial monitoring.
+* **ESG Structuring:** Organizing manufacturing efficiency data for actionable reporting.
 
 ---
 
-## 🌍 Lass uns connecten
-Bereit für die nächste Herausforderung in der digitalen Industrie?
+## 🧭 Engineering Objective
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/monique-navarro-eng/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/monique-navarro-eng">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
+I am seeking to join an innovative team in Germany where I can act as the **bridge between Shopfloor (OT) and IT**. My goals are:
+
+1.  **Connecting Assets:** Bringing hidden machine data to life.
+2.  **Reducing Waste:** Driving energy efficiency via data-driven optimization.
+3.  **ESG Transparency:** Ensuring sustainability goals are backed by real, granular production data.
 
 ---
-<p align="center"><i>© 2026 Monique Navarro | Passion for Data & Industrial Innovation</i></p>
+
+## 🌍 Languages
+
+* **Portuguese:** Native
+* **German:** B1 (Actively improving – professional integration ready)
+* **English:** Technical Working Level
+
+---
+
+## 🔗 Connect With Me
+
+Let's discuss how data can transform the manufacturing landscape.
+
+| Platform | Profile Link |
+| :--- | :--- |
+| **LinkedIn** | [Connect with Monique](https://www.linkedin.com/in/monique-navarro-eng/) |
+| **GitHub** | [View My Repositories](https://github.com/monique-navarro-eng) |
+| **CodePen** | [See Frontend Prototypes](https://codepen.io/nikifit7) |
+
+---
+
+<p align="center">
+  <i>Focus: Industrial Efficiency • Energy Optimization • Data-Driven Manufacturing</i>
+</p>
