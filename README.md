@@ -1,86 +1,82 @@
 <div align="center">
 
-# ⚡ Monique Navarro
-### *Industrial Transformation Engineer | Data Enthusiast | Frontend Explorer*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Monique%20Navarro&fontSize=50&fontColor=ffffff" />
 
-![Banner](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=150&text=Bridging%20Shopfloor%20%26%20Digital%20Realities&fontSize=30&fontColor=ffffff)
+### 🚀 Industrial Transformation Engineer | OT-IT Integration Specialist
+*Bridging the gap between Shopfloor efficiency and Modern Data Visualization.*
 
-<img src="https://img.shields.io/badge/Industry-4.0-3B82F6?style=for-the-badge&logo=siemens&logoColor=white">
-<img src="https://img.shields.io/badge/Frontend-Neon%20Design-88CE02?style=for-the-badge&logo=greensock&logoColor=black">
-<img src="https://img.shields.io/badge/EdTech-Experienced-F59E0B?style=for-the-badge&logo=educative&logoColor=white">
+<img src="https://img.shields.io/badge/Industry_4.0-3B82F6?style=for-the-badge&logo=siemens&logoColor=white" />
+<img src="https://img.shields.io/badge/Frontend_Dev-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
+<img src="https://img.shields.io/badge/Data_Science-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/ESG_Compliance-F59E0B?style=for-the-badge&logo=googleearth&logoColor=white" />
 
 </div>
 
 ---
 
-## 🚀 Über mich
-Ich kombiniere **industrielle Präzision** mit modernem **Software-Engineering**. Meine Mission ist es, komplexe industrielle Prozesse durch präzise Datenanalyse und intuitives Frontend-Design zu optimieren.
-
-Mit einem starken Hintergrund in der **EdTech-Branche** entwickle ich Lösungen, die nicht nur funktionieren, sondern auch verstanden werden – von Produktions-Dashboards bis hin zu interaktiven industriellen Interfaces.
+## 👤 Executive Summary
+I am an engineer specialized in **Industrial Digitalization**. I transform complex, raw machine data into intuitive, actionable insights. By combining my background in **TPM (Total Productive Maintenance)** and **ISO standards** with modern web technologies, I build interfaces that bridge the gap between heavy industry and user-friendly digital solutions.
 
 ---
 
-## 🛠️ Mein Tech-Arsenal
+## 🛠 Tech Arsenal
 
-### 💻 Frontend & Interaktion (Modern Web)
-> "Industrielle Daten müssen nicht langweilig aussehen. Mit GSAP und modernem Web-Design erwecke ich Dashboards zum Leben."
-
-| Technologie | Status | Fokus |
-| :--- | :--- | :--- |
-| **HTML5 / CSS3** | Proficient | Semantisches, responsives Design |
-| **JavaScript (ES6+)** | Advanced | Dynamische Logik & State-Management |
-| **GSAP (GreenSock)** | Expert | High-End Animationen & Daten-Visualisierung |
+### 💻 Frontend & Web Experience
+I leverage modern web technologies to create high-performance industrial dashboards.
+* **Core:** HTML5, CSS3, JavaScript (ES6+)
+* **Animation:** **GSAP (GreenSock)** for precise, high-performance data visualization.
+* **UI/UX:** Focus on usability in high-stress industrial environments.
 
 ### 🏭 Industrial & Data Engineering
-| Technologie | Status | Fokus |
+I treat industrial data as a strategic asset.
+* **Languages:** Python (Pandas, NumPy, Automation)
+* **Databases:** SQL (PostgreSQL, MS SQL) for structured manufacturing records.
+* **Protocols:** Modbus TCP/RTU, OPC UA (Integration & Troubleshooting).
+* **Intelligence:** Power BI, Energy Efficiency Modeling (CO₂, kWh).
+
+---
+
+## 🎓 The EdTech Edge
+My background in **EdTech** is my "secret weapon." 
+> *German engineering requires documentation and clarity.* My experience allows me to:
+1. **Simplify Complexity:** I transform technical documentation into interactive, educational interfaces for plant operators.
+2. **User-Centric Design:** I build tools that people *want* to use, increasing adoption rates of new industrial software.
+3. **Didactic Clarity:** My code is structured, documented, and built for maintainability.
+
+---
+
+## 📊 Highlighted Projects
+
+| Project | Tech Stack | Impact |
 | :--- | :--- | :--- |
-| **Python** | Expert | Data Wrangling & Pipeline-Automatisierung |
-| **Pandas** | Advanced | Komplexe industrielle Datenanalyse |
-| **SQL** | Advanced | PostgreSQL, MSSQL, Structuring |
-| **Power BI** | Intermediate | Business Intelligence & Reporting |
+| **Energy Dashboard** | Python, GSAP, REST | Real-time monitoring of CO₂ & energy waste. |
+| **Data Pipeline** | SQL, Pandas | Automating raw log processing into ESG reports. |
+| **Machine Visualizer** | JS, CSS, GSAP | Prototyping machine cycles for UX efficiency. |
 
 ---
 
-## 📦 Bibliotheken & Werkzeuge im Fokus
-*Glow-Effekt aktiviert:*
+## 🧭 Career Focus
+I am currently based in Germany and looking to contribute to the **Digital Transformation of the German Industrial Sector**. 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white">
-</p>
+**Core Interests:**
+* ⚙️ Industrial IoT (IIoT) & OT-IT Convergence
+* ⚡ Energy Management Systems (EMS) & Sustainability
+* 🖥️ Manufacturing Data Analysis
+* 🛠️ Industrial Software Engineering
 
 ---
 
-## 🎓 EdTech Experience: Meine Stärke
-*Was ich aus dem Bildungssektor in die Industrie bringe:*
-
-- 📉 **Komplexitätsreduktion:** Ich designe Dashboards, die Anwender intuitiv erfassen.
-- 🏗️ **Didaktischer Code:** Software-Strukturen, die wartbar und skalierbar sind.
-- 👥 **UX-First:** Industrielle Software darf (und sollte) modern aussehen.
-
----
-
-## 📈 Ausgewählte Projekte
-
-> **Industrial Energy Dashboard** ⚡
-> *Visualisierung von Energieverbräuchen in Echtzeit.*
-> Tech: Python (Pandas), GSAP, REST-API.
-
-> **Automatisierte Reporting-Pipeline** 📊
-> *SQL-basierte Datenaufbereitung für ESG-Compliance.*
-> Tech: SQL, Python, Power BI.
+## 🌍 Languages
+* **Portuguese:** Native
+* **German:** B1 (Actively improving & comfortable in professional settings)
+* **English:** Professional Working Proficiency (Technical focus)
 
 ---
 
 <div align="center">
 
-### 🌐 Lass uns connecten
-**Bereit für die digitale Transformation?**
+### 🤝 Let's Connect!
+*Open to discussions regarding Industry 4.0, Data Science, and Frontend Engineering.*
 
 <a href="https://www.linkedin.com/in/monique-navarro-eng/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -89,6 +85,7 @@ Mit einem starken Hintergrund in der **EdTech-Branche** entwickle ich Lösungen,
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<br><br>
-<i>© 2026 Monique Navarro | Passion for Data & Industrial Innovation</i>
+<br>
+<sub><i>© 2026 Monique Navarro | Passion for Data & Industrial Innovation</i></sub>
+
 </div>
