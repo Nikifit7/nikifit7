@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Monique%20Navarro&fontSize=50&fontColor=ffffff" />
 
-### 🚀 Industrial JR Transformation Engineer | OT-IT Integration learning|Ex-Natura|SAP 
+### 🚀 Industrial JR Transformation Engineer | OT-IT Integration|Ex-Natura|SAP 
 *Bridging the gap between Shopfloor efficiency and Modern Data Visualization.*
 
 <img src="https://img.shields.io/badge/Industry_4.0-3B82F6?style=for-the-badge&logo=siemens&logoColor=white" />
@@ -15,7 +15,7 @@
 ---
 
 ## 👤 Executive Summary
-I am environmental manager (ESG) and an engineer student,with 3 years of factory expirience(EX-Natura), and 7 years of rural administration,  my goal is  **Industrial Digitalization**. I transform complex, raw machine data into intuitive, actionable insights. By combining my background in **TPM (Total Productive Maintenance)** and **ISO standards** with modern web technologies, I build interfaces that bridge the gap between heavy industry and user-friendly digital solutions.
+I am environmental manager (ESG) and an engineer student,with 3 years of factory experience(EX-Natura), and 7 years of rural administration,  my goal is  **Industrial Digitalization**. I transform complex, raw machine data into intuitive, actionable insights. By combining my background in **TPM (Total Productive Maintenance)** and **ISO standards** with modern web technologies, I build interfaces that bridge the gap between heavy industry and user-friendly digital solutions.
 
 ---
 
