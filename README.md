@@ -1,120 +1,80 @@
-# 🏭 Monique | Industrial Transition Engineer | Industry 4.0 | ESG Data Systems
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,100:2c5364&height=220&section=header&text=Industry%204.0%20Transition&fontSize=42&fontColor=ffffff" />
 </p>
 
----
+<h1 align="center">Monique | Industrial Transformation Engineer</h1>
 
-## 👤 About Me
-
-Industrial professional transitioning into **Industry 4.0 and industrial data systems**.
-
-Background combines:
-- Manufacturing / operational environments (chão de fábrica, TPM experience)
-- Environmental management (ESG / ISO 14001)
-- Early-stage software engineering (Python, SQL)
-
-Currently focused on **learning industrial digitalization and OT–IT integration for ESG and energy efficiency use cases**.
+<p align="center">
+  <b>Bridging the Gap: OT Shopfloor ↔ IT Systems ↔ ESG Compliance</b>
+</p>
 
 ---
 
-## 🎯 Current Focus
+## 🚀 Über mich
+Willkommen! Ich bin eine Ingenieurin mit einer Leidenschaft für die **digitale Transformation der Industrie**. Mein Fokus liegt an der Schnittstelle von klassischer Fertigungstechnik und moderner Datenwelt. Ich schlage die Brücke zwischen dem Shopfloor und datengestützten Management-Entscheidungen.
 
-- Industrial IoT fundamentals (machine data → systems)
-- Modbus TCP (basic practical use)
-- OPC UA (learning for Industry 4.0 integration)
-- Python for industrial data processing (pandas, automation)
-- SQL for structured industrial datasets
-- ESG / energy efficiency data modeling (CO₂, consumption, reporting)
+Ich kombiniere fundierte Erfahrung im Bereich **TPM (Total Productive Maintenance)** und **ISO-Qualitätsmanagement** mit den Werkzeugen von morgen (**Python, SQL, IIoT**), um industrielle Prozesse effizienter und nachhaltiger zu gestalten.
 
 ---
 
-## ⚙️ Technical Skills
+## 🛠 Tech Stack & Kompetenzen
 
-### 💻 Data & Software
-- Python (pandas, automation, data analysis)
-- SQL (data querying and structuring)
-- Power BI (dashboard development – basic to intermediate)
-
-### 🏭 Industrial Communication (OT)
-- Modbus TCP / RTU (basic experience)
-- OPC UA (currently learning)
-- Understanding of industrial data flow (sensor → PLC → system)
-
-### 🔧 Industrial Background
-- TPM (Total Productive Maintenance – practical experience)
-- ISO 9001 / ISO 14001 environments
-- Operational and manufacturing workflows
-
-### 🌱 ESG & Sustainability
-- ESG fundamentals (CSRD awareness)
-- Energy efficiency tracking concepts
-- CO₂ and resource consumption modeling (prototype level)
+| Bereich | Skills |
+| :--- | :--- |
+| **Industrial IT (OT)** | Modbus TCP/RTU, OPC UA, IIoT-Architekturen |
+| **Datenanalyse** | Python (Pandas, Automation), SQL, Power BI |
+| **Industrie-Standards** | TPM, ISO 9001, ISO 14001, ESG Reporting |
+| **Sustainability** | Energieeffizienz-Modellierung, CO₂-Bilanzierung |
 
 ---
 
-## 📊 Projects (Learning & Prototypes)
+## 🎯 Mein Fokus: Industry 4.0 & ESG
+Ich transformiere industrielle Herausforderungen in datengetriebene Lösungen. Mein Ziel ist es, **Transparenz** in den Produktionsprozess zu bringen:
 
-- Industrial energy simulation dashboard (EUR / kWh / CO₂ estimation)
-- Python-based process tracking automation (structured data workflows)
-- Concept model for real-time industrial energy monitoring (IoT architecture)
-- ESG data structuring for manufacturing efficiency analysis
-
-> Note: Projects are currently in development and used for learning industrial systems and data integration.
-
----
-
-## 🎯 Engineering Objective
-
-My goal is to work in **Industry 4.0 environments**, focusing on:
-
-- Connecting industrial machines to data systems
-- Improving energy efficiency and reducing resource waste
-- Supporting ESG reporting with real operational data
-- Bridging OT (shop-floor) and IT (data systems)
+* **OT-IT Konvergenz:** Integration von Maschinendaten (SPS/PLC) in übergeordnete IT-Systeme.
+* **Energie-Optimierung:** Modellierung und Überwachung von Energieverbräuchen zur Senkung des CO₂-Fußabdrucks.
+* **Prozess-Automation:** Automatisierte Datenverarbeitung zur Effizienzsteigerung im Shopfloor.
+* **ESG-Compliance:** Unterstützung bei der Berichterstattung durch präzise, reale Betriebsdaten.
 
 ---
 
-## 🧭 Career Direction
+## 📈 Ausgewählte Projekte (Prototypen)
 
-Seeking opportunities in:
+> *Hinweis: Diese Projekte dienen zur kontinuierlichen Entwicklung meiner technischen Fähigkeiten und Validierung von IoT-Architekturen.*
 
-- Industrial Digitalization / Industry 4.0 (entry level)
-- Manufacturing Data Analysis
-- ESG / Sustainability Data Roles in industry
-- OT–IT integration environments
-
----
-
-## 🌍 Languages
-
-- Portuguese (native)
-- German (B1 – actively improving)
-- English (technical working level)
-
-Currently based in Germany and integrating into the industrial environment.
+* **Industrial Energy Dashboard:** Simulation von Energieverbräuchen (EUR/kWh/CO₂) zur Identifikation von Einsparpotenzialen.
+* **Python Automation Workflow:** Automatisierte Datenverarbeitung zur Strukturierung unformatierter Produktions-Logs.
+* **IoT-Architektur-Modell:** Konzeptionelle Implementierung zur Echtzeit-Überwachung industrieller Assets.
 
 ---
 
-## 🧠 Working Approach
+## 🧭 Career Path & Ziele
+Derzeit lebe ich in Deutschland und suche den Einstieg in ein innovatives Team. Ich möchte meine Energie in folgende Rollen investieren:
 
-- Practical, hands-on learning from industrial systems
-- Focus on measurable efficiency improvements
-- Continuous development in industrial protocols and data systems
-- Strong interest in energy optimization and ESG integration
+- **Junior Industrial Digitalization Engineer**
+- **Manufacturing Data Analyst**
+- **ESG/Sustainability Data Specialist (Industrie)**
+- **OT-IT Integrations-Spezialistin**
 
 ---
 
-## 🔗 Contact
+## 🌍 Sprachen
+* **Portugiesisch:** Muttersprache
+* **Deutsch:** B1 (aktiv im Lernprozess – bereit für das Arbeitsumfeld)
+* **Englisch:** Verhandlungssicher (Technischer Wortschatz)
 
-- LinkedIn: [https://www.linkedin.com/in/monique-navarro-eng/]
-- code Pen: [https://codepen.io/nikifit7]
-- GitHub: [https://www.linkedin.com/in/monique-navarro-eng/]
-  
+---
+
+## 🔗 Kontakt & Portfolio
+
+Verbinden wir uns! Ich freue mich auf fachlichen Austausch über die Zukunft der Industrie.
+
+* [**LinkedIn**](https://www.linkedin.com/in/monique-navarro-eng/) – Mein beruflicher Werdegang
+* [**GitHub**](https://github.com/monique-navarro-eng) – Mein Code & Projekte
+* [**CodePen**](https://codepen.io/nikifit7) – Spielwiese für Frontend-Visualisierungen
 
 ---
 
 <p align="center">
-  <i>Focus: industrial efficiency, energy optimization, and data-driven manufacturing systems.</i>
+  <i>"Efficiency through Data – Sustainability through Innovation."</i>
 </p>
