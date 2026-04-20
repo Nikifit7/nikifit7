@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Monique%20Navarro&fontSize=50&fontColor=ffffff" />
 
-### 🚀 Industrial Transformation Engineer | OT-IT Integration Specialist
+### 🚀 Industrial Transformation Engineer | OT-IT Integration learning
 *Bridging the gap between Shopfloor efficiency and Modern Data Visualization.*
 
 <img src="https://img.shields.io/badge/Industry_4.0-3B82F6?style=for-the-badge&logo=siemens&logoColor=white" />
@@ -15,7 +15,7 @@
 ---
 
 ## 👤 Executive Summary
-I am an engineer specialized in **Industrial Digitalization**. I transform complex, raw machine data into intuitive, actionable insights. By combining my background in **TPM (Total Productive Maintenance)** and **ISO standards** with modern web technologies, I build interfaces that bridge the gap between heavy industry and user-friendly digital solutions.
+I am an engineer student, my goal is  **Industrial Digitalization**. I transform complex, raw machine data into intuitive, actionable insights. By combining my background in **TPM (Total Productive Maintenance)** and **ISO standards** with modern web technologies, I build interfaces that bridge the gap between heavy industry and user-friendly digital solutions.
 
 ---
 
@@ -36,12 +36,6 @@ I treat industrial data as a strategic asset.
 
 ---
 
-## 🎓 The EdTech Edge
-My background in **EdTech** is my "secret weapon." 
-> *German engineering requires documentation and clarity.* My experience allows me to:
-1. **Simplify Complexity:** I transform technical documentation into interactive, educational interfaces for plant operators.
-2. **User-Centric Design:** I build tools that people *want* to use, increasing adoption rates of new industrial software.
-3. **Didactic Clarity:** My code is structured, documented, and built for maintainability.
 
 ---
 
