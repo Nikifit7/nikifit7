@@ -20,8 +20,8 @@ I'm an **Environmental Manager** with a **Postgraduate degree in Full Stack Web 
 
 > *"Waste reduction is survival. I merge ISO standards, industrial protocols, and modern web technologies to create real impact on the shopfloor."*
 
-- 🔧 **Ex-Natura** + rural background + now based in **Germany**
-- 🌍 Fluent in **Portuguese**, **English**, and **German (B1)**
+- 🔧 **Ex-Natura** + rural background 
+- 🌍 Fluent in **Portuguese**, **English**,Spanish B1 and **German (B1+)**
 - 🎯 Mission: Bridge OT-IT gaps and hunt waste with data
 
 ---
@@ -63,21 +63,10 @@ I'm an **Environmental Manager** with a **Postgraduate degree in Full Stack Web 
 
 </div>
 
----
 
-## 📌 Featured Projects
+## 🧭 What I'm Looking For 
 
-| Project | Stack | Focus |
-|:--------|:------|:------|
-| **Energy Dashboard** | Python, SQL, Node-RED, GSAP | Real-time energy monitoring & waste detection |
-| **Water Circularity Tracker** | OPC UA, Google Sheets, Python | ISO 14001 aligned water reuse indicators |
-| **Shopfloor Visualizer** | HTML, CSS, JS, GSAP | Interactive machine cycle visualization for UX efficiency |
-
----
-
-## 🧭 What I'm Looking For
-
-I'm currently based in **Germany** and open to opportunities in:
+My goal is to grow.
 
 - ⚙️ **Industrial IoT (IIoT)** & OT-IT integration
 - ⚡ **Energy Management Systems** (ISO 50001)
