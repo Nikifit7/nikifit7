@@ -164,53 +164,6 @@ I'm looking for opportunities to grow as a **Software Engineer** while applying 
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=monique-navarro-eng&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0A0A0A" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monique-navarro-eng&layout=compact&theme=radical&hide_border=true&bg_color=0A0A0A" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=monique-navarro-eng&theme=radical&hide_border=true&background=0A0A0A" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=monique-navarro-eng&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
-</p>
-
-<br>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=monique-navarro-eng&theme=react-dark&bg_color=0A0A0A&hide_border=true&area=true&color=00D4AA&line=7A4BFF&point=00FFD1" />
-</p>
-
-<br>
-
----
-
-## 🐍 Snake Eating Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
-<br>
-
----
-
-## 💬 Visitor Counter
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/monique-navarro-eng/count.svg" alt="Visitor Count" />
-</p>
-
----
-
 ## 📫 Connect with Me
 
 <p align="center">
@@ -240,5 +193,9 @@ I'm looking for opportunities to grow as a **Software Engineer** while applying 
 </p>
 
 <p align="center">
-  <i>⭐ Built with 💜 using Markdown | Monique Navarro © 2026</i>
+  <i>✨ Creativity is intelligence having fun — Albert Einstein</i>
+</p>
+
+<p align="center">
+  <i>© Monique Navarro 2026</i>
 </p>
