@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Monique%20Navarro&fontSize=50&fontColor=fff&animation=fadeIn" width="100%"/>
 
-### 🌱 Environmental Manager | ESG Industrial Data | Industry 4.0
+### 🌱 Environmental Manager & Web developer  | software engineer student| Industry 4.0
 #### *Bridging shopfloor efficiency, sustainability, and modern data visualization*
 
 <img src="https://img.shields.io/badge/Environmental_Manager-2d6a4f?style=for-the-badge&logo=leaf&logoColor=white"/>
@@ -16,7 +16,7 @@
 
 ## 👋 About Me
 
-I'm an **Environmental Manager** with a **Postgraduate degree in Full Stack Web Development**, passionate about turning industrial data into sustainable action.
+I'm an **Environmental Manager** with a **Postgraduate degree in Full Stack Web Development**, passionate about solving problems through software and continuous learning. .
 
 > *"Waste reduction is survival. I merge ISO standards, industrial protocols, and modern web technologies to create real impact on the shopfloor."*
 
@@ -71,7 +71,7 @@ My goal is to grow.
 - ⚙️ **Industrial IoT (IIoT)** & OT-IT integration
 - ⚡ **Energy Management Systems** (ISO 50001)
 - 🌿 **ESG Data Analytics** & sustainability reporting
-- 🖥️ **Industrial Software Engineering** & dashboard development
+- 🖥️ ** Software Engineering** & Green development
 
 ---
 
