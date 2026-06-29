@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <i>🌱 Bridging industrial efficiency, sustainability, and modern software development.</i>
+  <i>🌱 Bridging efficiency, sustainability, and modern software development.</i>
 </p>
 
 <br>
@@ -72,12 +72,12 @@ I'm an **Environmental Manager** and **Software Engineering student** with a pos
 
 ### 🔥 Highlights
 
-- 🌱 Environmental Management background
+- 🌱 Teaching & Environmental Management background
 - 💻 Software Engineering student  
 - 🎨 Front-end development with HTML, CSS and JavaScript
-- 🐍 Python for data analysis (Pandas, NumPy and Google Colab)
+- 🐍 Python for data analysis, automation. (Pandas, NumPy and Google Colab)
 - 🏭 Industrial experience with Lean Manufacturing, TPM, Kanban and 5S
-- 📊 Interest in Data Engineering, Automation and Software Engineering
+- 📊 Interest in Tech, Automation and Software Engineering
 
 <br>
 
@@ -164,14 +164,14 @@ I'm looking for opportunities to grow as a **Software Engineer** while applying 
 
 ---
 
-## 🎮 Pac-Man Game
+##  Pac-Man Game
 
 <p align="center">
   <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="100%">
 </p>
 
 <p align="center">
-  <i>🐍 The Pac-Man eats your contributions! (snake animation)</i>
+  <i> Creativity is intelligence having fun — Albert Einstein</i>
 </p>
 
 <br>
@@ -207,7 +207,7 @@ I'm looking for opportunities to grow as a **Software Engineer** while applying 
 </p>
 
 <p align="center">
-  <i>✨ Creativity is intelligence having fun — Albert Einstein</i>
+  <i>Keep learning & growing.</i>
 </p>
 
 <p align="center">
