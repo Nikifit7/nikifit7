@@ -43,7 +43,7 @@
   <a href="https://github.com/monique-navarro-eng">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A" />
   </a>
-  <a href="https://codepen.io/monique-navarro-eng">
+  <a href="https://codepen.io/nikifit7">
     <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white&labelColor=0A0A0A" />
   </a>
   <a href="mailto:seuemail@email.com">
