@@ -1,110 +1,244 @@
-<div align="center">
-  <table width="100%" style="background: #0d1b2a; border: 1px solid #00f2fe; border-radius: 20px; box-shadow: 0 0 20px rgba(0, 242, 254, 0.2); border-collapse: collapse;">
-    <tr>
-      <td style="padding: 40px; text-align: center;">
-        
-        <h1 style="font-family: 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 3.5rem; font-weight: 800; margin: 0; background: linear-gradient(135deg, #00f2fe 0%, #4facfe 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; text-shadow: 0 0 15px rgba(0,242,254,0.6); letter-spacing: -1px;">
-          Monique Navarro
-        </h1>
-        
-        <p style="font-family: 'Segoe UI', sans-serif; color: #a0aec0; font-size: 1.2rem; margin-top: 10px; font-weight: 500;">
-          🌱 Environmental Manager | 💻 Software Engineering Student | 🌐 Web Developer
-        </p>
-        
-        <div style="margin-top: 20px; background: rgba(0, 242, 254, 0.05); border: 1px solid rgba(0, 242, 254, 0.2); padding: 10px 20px; border-radius: 50px; display: inline-block; color: #e2e8f0; font-family: sans-serif; font-size: 0.95rem;">
-          ⚙️ <i>Bridging industrial efficiency, sustainability, and modern software development.</i>
-        </div>
-        
-        <div style="margin-top: 25px;">
-          <a href="https://www.linkedin.com/in/monique-navarro-eng/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-          <a href="https://github.com/monique-navarro-eng" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-          <a href="mailto:seu-email@provedor.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-        </div>
+<!--
+  README.md - Monique Navarro
+  Profile README com animações, ícones e efeitos visuais
+-->
 
-      </td>
-    </tr>
-  </table>
-</div>
+<!-- ANIMAÇÃO DE DIGITAÇÃO -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=900&size=35&duration=3000&pause=1000&color=00FFD1&center=true&vCenter=true&width=600&lines=Monique+Navarro;Environmental+Manager;Software+Engineering+Student;Web+Developer;Industry+4.0;Welcome+to+my+profile!+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+<!-- BANNER ANIMADO COM EMOJIS -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Bridging%20Industrial%20Efficiency&fontSize=20&fontAlignY=35&animation=twinkling" />
+</p>
+
+<p align="center">
+  <i>🌱 Bridging industrial efficiency, sustainability, and modern software development.</i>
+</p>
 
 <br>
 
-<table width="100%" border="0" cellpadding="0" cellspacing="0" style="background: #0d1b2a; font-family: 'Segoe UI', sans-serif;">
-  <tr>
-    <td width="60%" valign="top" style="padding-right: 15px;">
-      
-      <div style="background: #16283e; border: 1px solid rgba(255,255,255,0.08); padding: 25px; border-radius: 20px; margin-bottom: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
-        <h2 style="color: #00f2fe; margin-top: 0; font-size: 1.5rem; border-bottom: 1px solid rgba(0,242,254,0.2); padding-bottom: 10px;">🚀 Sobre Mim</h2>
-        <p style="color: #cbd5e1; line-height: 1.6; font-size: 1rem;">
-          Sou Gestora Ambiental e estudante de Engenharia de Software com especialização em Desenvolvimento Web Full Stack. Minha trajetória une operações industriais, sustentabilidade e tecnologia.
-        </p>
-        <p style="color: #cbd5e1; line-height: 1.6; font-size: 1rem;">
-          Há mais de 14 anos também atuo na preparação de profissionais para carreiras internacionais através do ensino de inglês, desenvolvendo inteligência emocional e confiança.
-        </p>
-        <ul style="color: #cbd5e1; padding-left: 20px; line-height: 1.8;">
-          <li>🍃 Fortes conhecimentos em Gestão Ambiental e industrial.</li>
-          <li>📊 Lean Manufacturing, TPM, Kanban, 5S e Normas ISO.</li>
-          <li>🤖 Foco atual em Engenharia de Dados, Automação e Indústria 4.0.</li>
-        </ul>
-      </div>
+<!-- BADGES ANIMADOS COM EFEITO HOVER -->
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Environmental_Manager-00D4AA?style=for-the-badge&logo=leaf&logoColor=white&labelColor=0A0A0A" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Software_Engineering_Student-7A4BFF?style=for-the-badge&logo=code&logoColor=white&labelColor=0A0A0A" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Web_Developer-00B4D8?style=for-the-badge&logo=react&logoColor=white&labelColor=0A0A0A" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Industry_4.0-FF6B35?style=for-the-badge&logo=industry&logoColor=white&labelColor=0A0A0A" />
+  </a>
+</p>
 
-      <div style="background: #16283e; border: 1px solid rgba(255,255,255,0.08); padding: 25px; border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
-        <h2 style="color: #00f2fe; margin-top: 0; font-size: 1.5rem; border-bottom: 1px solid rgba(0,242,254,0.2); padding-bottom: 10px;">🛠️ Tech Stack</h2>
-        
-        <p style="color: #94a3b8; font-weight: 600; margin-bottom: 5px;">Linguagens & Front-end</p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-        
-        <p style="color: #94a3b8; font-weight: 600; margin-top: 15px; margin-bottom: 5px;">Análise de Dados & Ferramentas</p>
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
-        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node">
-        <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" alt="Colab">
-
-        <p style="color: #94a3b8; font-weight: 600; margin-top: 15px; margin-bottom: 5px;">Industrial & Processos</p>
-        <div style="color: #cbd5e1; font-size: 0.9rem;">
-          <code>Lean Manufacturing</code> • <code>TPM</code> • <code>Kanban</code> • <code>5S</code> • <code>ISO 9001 / 14001 / 50001</code>
-        </div>
-      </div>
-
-    </td>
-
-    <td width="40%" valign="top" style="padding-left: 15px;">
-      
-      <div style="background: #16283e; border: 1px solid rgba(255,255,255,0.08); padding: 25px; border-radius: 20px; margin-bottom: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
-        <h2 style="color: #ff007f; margin-top: 0; font-size: 1.5rem; border-bottom: 1px solid rgba(ff007f,0.2); padding-bottom: 10px;">🎯 Buscando Oportunidades</h2>
-        <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.5;">
-          Focada em atuar como Engenheira de Software ou Engenheira de Dados, aplicando tecnologia na resolução de problemas complexos de digitalização industrial e sustentabilidade.
-        </p>
-        <div style="margin-top: 10px;">
-          <span style="display:inline-block; background:rgba(255,0,127,0.1); border:1px solid rgba(255,0,127,0.3); color:#ff5c9d; padding:4px 10px; border-radius:10px; margin:3px; font-size:0.85rem;">Automação</span>
-          <span style="display:inline-block; background:rgba(255,0,127,0.1); border:1px solid rgba(255,0,127,0.3); color:#ff5c9d; padding:4px 10px; border-radius:10px; margin:3px; font-size:0.85rem;">Data Analytics</span>
-          <span style="display:inline-block; background:rgba(255,0,127,0.1); border:1px solid rgba(255,0,127,0.3); color:#ff5c9d; padding:4px 10px; border-radius:10px; margin:3px; font-size:0.85rem;">Engenharia de Dados</span>
-        </div>
-      </div>
-
-      <div style="background: #16283e; border: 1px solid rgba(255,255,255,0.08); padding: 25px; border-radius: 20px; margin-bottom: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
-        <h2 style="color: #00f2fe; margin-top: 0; font-size: 1.5rem; border-bottom: 1px solid rgba(0,242,254,0.2); padding-bottom: 10px;">🗣️ Idiomas</h2>
-        <table width="100%" style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.8;">
-          <tr><td>🇧🇷 Português</td><td align="right" style="color: #00f2fe; font-weight:600;">Nativo</td></tr>
-          <tr><td>🇺🇸 Inglês</td><td align="right" style="color: #00f2fe; font-weight:600;">Fluente/Profissional</td></tr>
-          <tr><td>🇪🇸 Espanhol</td><td align="right" style="color: #a0aec0;">Intermediário (B1)</td></tr>
-          <tr><td>🇩🇪 Alemão</td><td align="right" style="color: #a0aec0;">Intermediário (B1)</td></tr>
-        </table>
-      </div>
-
-      <div style="background: #16283e; border: 1px solid rgba(255,255,255,0.08); padding: 15px; border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.5); text-align: center;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monique-navarro-eng&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Langs">
-      </div>
-
-    </td>
-  </tr>
-</table>
+<!-- REDES SOCIAIS COM ÍCONES -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/monique-navarro-eng/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0A" />
+  </a>
+  <a href="https://github.com/monique-navarro-eng">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A" />
+  </a>
+  <a href="mailto:seuemail@email.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0A0A" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=portfolio&logoColor=white&labelColor=0A0A0A" />
+  </a>
+</p>
 
 <br>
 
-<div align="center" style="color: #4a5568; font-family: sans-serif; font-size: 0.85rem; margin-top: 30px;">
-  💻 Desenvolvido com 💙 por Monique Navarro • 2026
-</div>
+<!-- DIVISÓRIA ANIMADA -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
+
+---
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> About Me
+
+<img align="right" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+I'm an **Environmental Manager** and **Software Engineering student** with a postgraduate background in **Full Stack Web Development**.
+
+✨ I'm passionate about software development, problem-solving, and continuous learning. My background combines industrial operations, sustainability, education, and technology.
+
+🎓 For over **14 years**, I've taught English and prepared students for international careers, helping them develop communication skills, emotional intelligence, and professional confidence.
+
+### 🔥 Highlights
+
+- 🌱 Environmental Management background
+- 💻 Software Engineering student  
+- 🎨 Front-end development with HTML, CSS and JavaScript
+- 🐍 Python for data analysis (Pandas, NumPy and Google Colab)
+- 🏭 Industrial experience with Lean Manufacturing, TPM, Kanban and 5S
+- 📊 Interest in Data Engineering, Automation and Software Engineering
+
+<br>
+
+---
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> Tech Stack
+
+### 💻 Programming Languages
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0A0A0A" />
+</p>
+
+### 📚 Libraries & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0A0A0A" />
+</p>
+
+### 📖 Currently Learning
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/Data_Engineering-00D4AA?style=for-the-badge&logo=data&logoColor=white&labelColor=0A0A0A" />
+</p>
+
+### 🏭 Industrial Knowledge
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Lean_Manufacturing-FF6B35?style=flat-square&logo=industry&logoColor=white&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/TPM-00B4D8?style=flat-square&logo=gear&logoColor=white&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/Kanban-7A4BFF?style=flat-square&logo=trello&logoColor=white&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/5S-00D4AA?style=flat-square&logo=check&logoColor=white&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/ISO_9001-003366?style=flat-square&logo=iso&logoColor=white&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/ISO_14001-008000?style=flat-square&logo=iso&logoColor=white&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/ISO_50001-FFD700?style=flat-square&logo=iso&logoColor=white&labelColor=0A0A0A" />
+</p>
+
+<br>
+
+---
+
+## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="30px"> What I'm Looking For
+
+I'm looking for opportunities to grow as a **Software Engineer** while applying technology to solve real-world industrial and sustainability challenges.
+
+### 🎯 My Interests
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Software_Engineering-7A4BFF?style=for-the-badge&logo=code&logoColor=white&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/Data_Engineering-00D4AA?style=for-the-badge&logo=data&logoColor=white&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/Process_Automation-FF6B35?style=for-the-badge&logo=automation&logoColor=white&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/Industrial_Digitalization-00B4D8?style=for-the-badge&logo=industry&logoColor=white&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/Data_Analytics-FFD700?style=for-the-badge&logo=analytics&logoColor=black&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/Sustainability_Tech-00FF88?style=for-the-badge&logo=leaf&logoColor=white&labelColor=0A0A0A" />
+</p>
+
+<br>
+
+---
+
+## 🌍 Languages
+
+| <img src="https://flagcdn.com/br.svg" width="20"/> Portuguese | <img src="https://flagcdn.com/us.svg" width="20"/> English | <img src="https://flagcdn.com/es.svg" width="20"/> Spanish | <img src="https://flagcdn.com/de.svg" width="20"/> German |
+|:---:|:---:|:---:|:---:|
+| Native 🇧🇷 | Professional Proficiency 🇺🇸 | Intermediate (B1) 🇪🇸 | Intermediate (B1) 🇩🇪 |
+
+<br>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=monique-navarro-eng&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0A0A0A" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monique-navarro-eng&layout=compact&theme=radical&hide_border=true&bg_color=0A0A0A" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=monique-navarro-eng&theme=radical&hide_border=true&background=0A0A0A" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=monique-navarro-eng&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
+</p>
+
+<br>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=monique-navarro-eng&theme=react-dark&bg_color=0A0A0A&hide_border=true&area=true&color=00D4AA&line=7A4BFF&point=00FFD1" />
+</p>
+
+<br>
+
+---
+
+## 🐍 Snake Eating Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+<br>
+
+---
+
+## 💬 Visitor Counter
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/monique-navarro-eng/count.svg" alt="Visitor Count" />
+</p>
+
+---
+
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/monique-navarro-eng/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0A" />
+  </a>
+  <a href="https://github.com/monique-navarro-eng">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A" />
+  </a>
+  <a href="mailto:seuemail@email.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0A0A" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=portfolio&logoColor=white&labelColor=0A0A0A" />
+  </a>
+</p>
+
+<br>
+
+<!-- DIVISÓRIA ANIMADA -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
+
+<p align="center">
+  <i>⭐ Built with 💜 using Markdown | Monique Navarro © 2026</i>
+</p>
