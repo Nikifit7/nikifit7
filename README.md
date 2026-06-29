@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <i>🌱 Bridging efficiency, sustainability, and modern software development.</i>
+  <i>🌱 Bridging industrial efficiency, sustainability, and modern software development.</i>
 </p>
 
 <br>
@@ -42,6 +42,9 @@
   </a>
   <a href="https://github.com/monique-navarro-eng">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A" />
+  </a>
+  <a href="https://codepen.io/monique-navarro-eng">
+    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white&labelColor=0A0A0A" />
   </a>
   <a href="mailto:seuemail@email.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0A0A" />
@@ -72,12 +75,12 @@ I'm an **Environmental Manager** and **Software Engineering student** with a pos
 
 ### 🔥 Highlights
 
-- 🌱 Teaching & Environmental Management background
+- 🌱 Environmental Management background
 - 💻 Software Engineering student  
 - 🎨 Front-end development with HTML, CSS and JavaScript
-- 🐍 Python for data analysis, automation. (Pandas, NumPy and Google Colab)
+- 🐍 Python for data analysis (Pandas, NumPy and Google Colab)
 - 🏭 Industrial experience with Lean Manufacturing, TPM, Kanban and 5S
-- 📊 Interest in Tech, Automation and Software Engineering
+- 📊 Interest in Data Engineering, Automation and Software Engineering
 
 <br>
 
@@ -164,14 +167,14 @@ I'm looking for opportunities to grow as a **Software Engineer** while applying 
 
 ---
 
-##  Pac-Man Game
+## 🎮 Pac-Man Game
 
 <p align="center">
   <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="100%">
 </p>
 
 <p align="center">
-  <i> Creativity is intelligence having fun — Albert Einstein</i>
+  <i>🐍 The Pac-Man eats your contributions! (snake animation)</i>
 </p>
 
 <br>
@@ -186,6 +189,9 @@ I'm looking for opportunities to grow as a **Software Engineer** while applying 
   </a>
   <a href="https://github.com/monique-navarro-eng">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A" />
+  </a>
+  <a href="https://codepen.io/monique-navarro-eng">
+    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white&labelColor=0A0A0A" />
   </a>
   <a href="mailto:seuemail@email.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0A0A" />
@@ -207,7 +213,7 @@ I'm looking for opportunities to grow as a **Software Engineer** while applying 
 </p>
 
 <p align="center">
-  <i>Keep learning & growing.</i>
+  <i>✨ Creativity is intelligence having fun — Albert Einstein</i>
 </p>
 
 <p align="center">
