@@ -164,6 +164,20 @@ I'm looking for opportunities to grow as a **Software Engineer** while applying 
 
 ---
 
+## 🎮 Pac-Man Game
+
+<p align="center">
+  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="100%">
+</p>
+
+<p align="center">
+  <i>🐍 The Pac-Man eats your contributions! (snake animation)</i>
+</p>
+
+<br>
+
+---
+
 ## 📫 Connect with Me
 
 <p align="center">
