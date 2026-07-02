@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <i>🌱 Bridging industrial efficiency, sustainability, and modern software development.</i>
+  <i>🌱 Monique Navarro.</i>
 </p>
 
 <br>
