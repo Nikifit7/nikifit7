@@ -174,7 +174,7 @@ I'm looking for opportunities to grow as a **Software Engineer** while applying 
 </p>
 
 <p align="center">
-  <i>🐍 The Pac-Man eats your contributions! (snake animation)</i>
+  <i> Discipline eats motivation for breakfast! </i>
 </p>
 
 <br>
@@ -193,7 +193,7 @@ I'm looking for opportunities to grow as a **Software Engineer** while applying 
   <a href="https://codepen.io/monique-navarro-eng">
     <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white&labelColor=0A0A0A" />
   </a>
-  <a href="mailto:seuemail@email.com">
+  <a href="mailto:esg.tech10@email.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0A0A" />
   </a>
   <a href="#">
