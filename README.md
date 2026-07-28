@@ -640,7 +640,7 @@
 
   <!-- ===== GITHUB STATS ===== -->
   <div class="neon-box" style="margin: 30px 0; padding: 30px;">
-    <h2 align="center" style="color: #00FF88; text-shadow: 0 0 30px rgba(0,255,136,0.3);"> https://cdn.wallpapersafari.com/82/45/1dqmNz.jpg</h2>
+    <h2 align="center" style="color: #00FF88; text-shadow: 0 0 30px rgba(0,255,136,0.3);">📊 GitHub Stats</h2>
     <p align="center">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nikifit7&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0A0A1A&title_color=00FF88&text_color=00D4FF&icon_color=FFB800" />
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikifit7&layout=compact&langs_count=7&theme=radical&bg_color=0A0A1A&title_color=00FF88&text_color=00D4FF&icon_color=FFB800" />
