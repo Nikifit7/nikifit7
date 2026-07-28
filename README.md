@@ -1,7 +1,10 @@
-# 👩‍💻 Monique Navarro
+<!--
+  README.md - Monique Navarro
+  Full Stack Developer | Green Tech | ESG | OT/IT Integration
+-->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&weight=900&size=28&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%F0%9F%9A%80;Green+Tech+Enthusiast+%F0%9F%8C%B1;OT%2FIT+Integration+Specialist;Data+%26+Software+Engineer;Python+%7C+Node.js+%7C+Vue.js;IoT+%7C+MQTT+%7C+Modbus;ESG+%7C+Sustainability+%7C+Innovation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&weight=900&size=28&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=800&lines=Monique+Navarro;Full+Stack+Developer+%F0%9F%9A%80;Green+Tech+Enthusiast+%F0%9F%8C%B1;OT%2FIT+Integration+Specialist;Data+%26+Software+Engineer;Python+%7C+Node.js+%7C+Vue.js;IoT+%7C+MQTT+%7C+Modbus;ESG+%7C+Sustainability+%7C+Innovation" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -38,7 +41,7 @@
 
 ---
 
-## 🚀 About Me
+## 👩‍💻 About Me
 
 <img align="right" width="250" src="https://media.giphy.com/media/L1R1tvI9svkIWwp45Y/giphy.gif" />
 
